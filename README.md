@@ -51,7 +51,7 @@ But if you're complete noob then you can use for booting (SKYLAKE Laptops Only)
 
 
 ##### Hackintoshing since 10.12 Sierra
-### I'll be working into dsdt patches to make it perfect hackintosh. Please feel free to contact me for any issues. 
+##### I'll be working into dsdt patches to make it perfect hackintosh. Please feel free to contact me for any issues. 
 https://www.noobsplanet.com
 
 
