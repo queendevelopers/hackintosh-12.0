@@ -52,15 +52,17 @@ But if you're complete noob then you can use for booting (SKYLAKE Laptops Only)
 ## Screenshot <br />
 <br>
 <img src=https://raw.githubusercontent.com/queendevelopers/hackintosh-12.0/develop/EFI/screenshot/default.png>
-<img src=https://raw.githubusercontent.com/queendevelopers/hackintosh-12.0/develop/EFI/screenshot/launcher.png">
+<img src=https://raw.githubusercontent.com/queendevelopers/hackintosh-12.0/develop/EFI/screenshot/launcher.png>
 <img src=https://raw.githubusercontent.com/queendevelopers/hackintosh-12.0/develop/EFI/screenshot/itunes.png>
 <img src=https://raw.githubusercontent.com/queendevelopers/hackintosh-12.0/develop/EFI/screenshot/music.png>
 <img src=https://raw.githubusercontent.com/queendevelopers/hackintosh-12.0/develop/EFI/screenshot/prefs.png>
 <img src=https://raw.githubusercontent.com/queendevelopers/hackintosh-12.0/develop/EFI/screenshot/premiere.png>
 <br>
 <br>
-##### Hackintoshing since 10.12 Sierra
-##### I'll be working into dsdt patches to make it perfect hackintosh. Please feel free to contact me for any issues. 
+                                                                                                               
+#### Hackintoshing since 10.12 Sierra <br />
+#### I'll be working into dsdt patches to make it perfect hackintosh. <br />
+Please feel free to query me anytime. Please support & show some love. ❤️ 🤑 <br />
 https://www.noobsplanet.com
 
 
