@@ -49,8 +49,8 @@ But if you're complete noob then you can use for booting (SKYLAKE Laptops Only)
 - RealtekRTL8100
 - VoodooPS2Controller
 
-## Screenshot
-![Monterey Default Desktop Screenshot] (https://raw.githubusercontent.com/queendevelopers/hackintosh-12.0/develop/EFI/screenshot/default.png)
+## Screenshot <br />
+![Monterey Default Desktop Screenshot] (https://raw.githubusercontent.com/queendevelopers/hackintosh-12.0/develop/EFI/screenshot/default.png?raw=true)
 ![launcher] (https://raw.githubusercontent.com/queendevelopers/hackintosh-12.0/develop/EFI/screenshot/launcher.png)
 ![iTunes] (https://raw.githubusercontent.com/queendevelopers/hackintosh-12.0/develop/EFI/screenshot/itunes.png)
 ![Music] (https://raw.githubusercontent.com/queendevelopers/hackintosh-12.0/develop/EFI/screenshot/music.png)
